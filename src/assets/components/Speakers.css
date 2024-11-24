@@ -1,0 +1,47 @@
+.speakers {
+    padding: 20px;
+  }
+  
+  .speakers h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .speaker-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .speaker-card {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .speaker-photo {
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .speaker-card h3 {
+    margin-top: 10px;
+  }
+  
+  .speaker-card p {
+    color: #666;
+  }
+  
+  .speaker-card .fab {
+    margin-top: 10px;
+    color: #007bff;
+  }
+  
+  .speaker-card .fab:hover {
+    color: #0056b3;
+  }
+  

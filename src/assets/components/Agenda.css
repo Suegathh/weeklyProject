@@ -1,0 +1,18 @@
+.agenda {
+    padding: 20px;
+  }
+  
+  .agenda h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .agenda ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .agenda li {
+    margin-bottom: 20px;
+  }
+  
